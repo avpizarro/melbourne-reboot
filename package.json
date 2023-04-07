@@ -4,7 +4,8 @@
   "description": "An app for to find things to do around Melbourne",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "author": "Han Mai, Lee Templeton, Peter Fotis, Alejandra Valdes Pizarro",
   "license": "ISC",
