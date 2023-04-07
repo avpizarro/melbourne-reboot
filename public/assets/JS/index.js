@@ -67,7 +67,6 @@ submitBtn.addEventListener("click", function (e) {
     async function fetchId() {
         var response = await fetch(
             `api/googleplace/${typesForURL}/${location}/${radius}`,
-            // queryURL, 
             // requestMode
             )
         if (!response.ok) {
@@ -118,7 +117,7 @@ submitBtn.addEventListener("click", function (e) {
             // Handle the pomise
             photoUrl = await photo.json()
 
-            console.log('photo:', photoUrl)
+            // console.log('photo:', photoUrl)
 
             //Store the results 
             apiResults.push({

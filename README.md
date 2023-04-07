@@ -15,10 +15,14 @@ Reboot Melbourne is a website for users to rediscover their local community.
 * Materialize CSS library
 
 ### Github Repository
-https://github.com/h-mai/APIproject
+
+https://github.com/avpizarro/melbourne-reboot.git
+
+##### (base code: https://github.com/h-mai/APIproject)
 
 ### URL
-https://h-mai.github.io/APIproject/index.html
+
+##### (initial deployement: https://h-mai.github.io/APIproject/index.html)
 
 ### Contributers
 * Alejandra Valdes Pizarro https://github.com/avpizarro
@@ -31,11 +35,11 @@ https://h-mai.github.io/APIproject/index.html
 
 * Peter Fotis 
 https://github.com/pfotis
+
 ### Screenshots
-![reb](https://user-images.githubusercontent.com/73642462/104113243-a91f8580-534b-11eb-879e-194e5309c005.PNG)
 
-![mreb](https://user-images.githubusercontent.com/73642462/104113242-a6bd2b80-534b-11eb-90a5-9b151135a8e3.PNG)
+![mreb](/public/assets/images/readmeImages/FrontPage.png)
 
-![sreb](https://user-images.githubusercontent.com/73642462/104113239-a45ad180-534b-11eb-8db0-35b428e1e914.PNG)
+![search results](/public/assets/images/readmeImages/SearchResults.png)
 
 

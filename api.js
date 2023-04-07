@@ -61,7 +61,7 @@ router.get('/placephotos/:reference', async (req, res) =>
         const response = await fetch(`https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&key=${process.env.GOOGLE_API_KEY}&photoreference=${req.params.reference}`,
         )
         const url = response.url
-        console.log("response: ", url)
+        // console.log("response: ", url)
         res.json({ url })
     }
     catch (error)
